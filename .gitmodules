@@ -1,0 +1,3 @@
+[submodule "TestChildRepo"]
+	path = TestChildRepo
+	url = git@github.com:lihaicong/TestChildRepo.git
